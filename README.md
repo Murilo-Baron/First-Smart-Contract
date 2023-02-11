@@ -1,7 +1,7 @@
 <h1 align="center"> Contrato inteligente </h1>
 
 <p align="center">
-Projeto realizado através deum curso na plataforma Udemy de Solidiry. <br/>
+Projeto realizado através deum curso na plataforma Udemy de Solidity. <br/>
 </p>
 
 <p align="center">
